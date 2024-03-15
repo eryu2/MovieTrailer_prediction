@@ -12,6 +12,5 @@
 
 
   
-
-6. trailerDataSplitter.py : 모든 종류의 데이터를 동일한 영화 순서로 정렬 및 train-test split 해주는 라이브러리
-7. sample_prediction.ipynb : 학습 및 예측 수행하는 샘플 코드 
+3. trailerDataSplitter.py : 모든 종류의 데이터를 동일한 영화 순서로 정렬 및 train-test split 해주는 라이브러리
+4. sample_prediction.ipynb : 학습 및 예측 수행하는 샘플 코드 
