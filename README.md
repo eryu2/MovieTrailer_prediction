@@ -1,6 +1,6 @@
 # MovieTrailer - Performance Prediction 
 
-영화트레일러를 통한 흥행 예측 
+트레일러를 통한 영화 흥행 예측 
 
 1. NumpyCreator.py : 이미지시퀀스 및 음성 데이터를 numpy 형태로 추출해주는 모듈
 2. MultiModalClassifier.py : 이미지시퀀스, 텍스트, 음성 데이터를 하나의 모델로 학습시키는 멀티모달 모델 라이브러리
