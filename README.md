@@ -1,4 +1,4 @@
-## MovieTrailer Success Prediction 
+# MovieTrailer - Performance Prediction 
 
 영화트레일러를 통한 흥행 예측 
 
