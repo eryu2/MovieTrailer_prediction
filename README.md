@@ -6,10 +6,7 @@
 2. MultiModalClassifier.py : 이미지시퀀스, 텍스트, 음성 데이터를 하나의 모델로 학습시키는 멀티모달 모델 라이브러리
 
 
-
-
-![image](https://github.com/eryu2/Movietrailer_prediction/assets/128961559/48cf137f-e6cb-4bbc-a033-55f2a1710d20)
-
+![그림1](https://github.com/eryu2/Movietrailer_prediction/assets/128961559/12f6ed15-fceb-4be0-9c52-5f9ff7160f10)
 
   
 3. trailerDataSplitter.py : 모든 종류의 데이터를 동일한 영화 순서로 정렬 및 train-test split 해주는 라이브러리
