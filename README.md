@@ -8,7 +8,7 @@
 
 
 
-![그림1](https://github.com/eryu2/Movietrailer_prediction/assets/128961559/693ef8f6-17f7-4022-8b8b-c03679d4b5c4)
+![image](https://github.com/eryu2/Movietrailer_prediction/assets/128961559/f15b63c2-e272-4c33-839a-fe424b613326)
 
 
   
